@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "saved_ads",
+  "info": {
+    "singularName": "saved-ad",
+    "pluralName": "saved-ads",
+    "displayName": "SavedAd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ProductName": {
+      "type": "string"
+    },
+    "ProductPrice": {
+      "type": "string"
+    },
+    "ProductFoto": {
+      "type": "string"
+    }
+  }
+}
